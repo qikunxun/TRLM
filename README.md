@@ -1,4 +1,3 @@
-## Code of the paper "End-to-end Learning of Temporal Logical Rules for Temporal Knowledge Graph Completion"
 ## Prerequisites
 
  * Python 3.8
